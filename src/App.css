@@ -1,0 +1,16 @@
+@media screen and (min-width: 992px) {
+    .post-center {
+        flex: 1 0 auto;
+    }
+}
+
+.border-style {
+border-radius: 10px;
+    border: .7px solid #a9aeb8;
+    background: #fff;
+width: 100%;
+}
+
+.post-image {
+    height: 220px;
+}
